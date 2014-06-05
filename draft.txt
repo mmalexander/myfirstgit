@@ -4,10 +4,6 @@ Here's another sentence.
 
 Today is June 5 2014.
 
-Programming makes me feel like a hacker.  :)
 
-Let's add one more line.
-
-This sentence was added after the coffee break.
-
-Hoopla hoopla.  Conflict resolved.
+This is now a document about cheese.  I like cheese that is not too 
+funky.
